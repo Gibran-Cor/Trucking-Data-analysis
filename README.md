@@ -1,4 +1,5 @@
 # Trucking-Data-analysis
+![donna-elliot-44eZ3uxC0VQ-unsplash](https://github.com/Gibran-Cor/Trucking-Data-analysis/assets/142538044/8a2e46bd-278f-470a-818b-f5942413e344)
 **Overview**
 Welcome to the Trucking Data Analysis project! This GitHub repository contains the code and resources for a project focused on analyzing data related to semi-trucks and their drivers. The dataset is sourced from Kaggle and includes information about various aspects of trucking, including models, events, velocities, and event types. The primary goal of this project is to inspect the data and provide insights into key business questions that a trucking company would likely have.
 
