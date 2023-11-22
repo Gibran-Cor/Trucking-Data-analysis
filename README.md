@@ -26,7 +26,11 @@ Analysis of Models Driven:
 **Repository Structure**
 
 The repository is organized as follows:
+
 data: This directory contains the dataset obtained from Kaggle.
+
 notebooks: Jupyter notebooks are provided in this directory for data exploration, preprocessing, and analysis of risk indices, behaviors, locations, drivers, and truck models.
+
 src: The source code for risk index calculation, forecasting, and other analyses is stored in this directory. It includes modules for data preprocessing, feature engineering, and risk assessment.
+
 reports: This directory contains any reports, visualizations, or findings generated during the analysis.
