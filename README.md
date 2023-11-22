@@ -7,21 +7,21 @@ Welcome to the Trucking Data Analysis project! This GitHub repository contains t
 **Business Questions**
 The project addresses several business questions that are crucial for a trucking company:
 
-- **Risk Index Calculation and Forecasting:**
+**Risk Index Calculation and Forecasting:**
 
-Calculate and forecast a future "risk index" for drivers based on the model, event, velocity, and event type. This risk index serves as a key metric for assessing the overall risk associated with each driver.
+- Calculate and forecast a future "risk index" for drivers based on the model, event, velocity, and event type. This risk index serves as a key metric for assessing the overall risk associated with each driver.
 Analysis of Risky Behaviors:
 
-Analyze the most risky behaviors committed by the drivers. Understanding these behaviors can help the company implement targeted interventions to improve safety.
+- Analyze the most risky behaviors committed by the drivers. Understanding these behaviors can help the company implement targeted interventions to improve safety.
 
-- **Identification of Risky Locations:**
-Identify locations that pose a higher risk for drivers. This information can be valuable for route planning and risk mitigation strategies.
+**Identification of Risky Locations:**
+- Identify locations that pose a higher risk for drivers. This information can be valuable for route planning and risk mitigation strategies.
 
-- **Identification of Risky Drivers:**
-Identify drivers with consistently high-risk profiles. This allows the company to address specific training needs or consider adjustments to driver assignments.
+**Identification of Risky Drivers:**
+- Identify drivers with consistently high-risk profiles. This allows the company to address specific training needs or consider adjustments to driver assignments.
 Analysis of Models Driven:
 
-Analyze the models of trucks driven by high-risk drivers. This insight can inform decisions related to maintenance, upgrades, or changes in the fleet.
+- Analyze the models of trucks driven by high-risk drivers. This insight can inform decisions related to maintenance, upgrades, or changes in the fleet.
 
 **Repository Structure**
 
